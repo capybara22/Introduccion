@@ -15,3 +15,9 @@ Este es mi primer proyecto
 4. Checkear que haya pasado algo despues de haber trackeado los archivos de la carpeta.
 
 ``` git status```
+
+5. Hacer un comentario.
+``` git commit -m"Mensaje" ``` 
+
+6. Hacer un push (subir el proyecto a github).
+```git push origin main```
